@@ -37,7 +37,7 @@
 ## 🖼️ Screenshots
 
 ### Main interface
-![Main interface](images/main.png)
+![Main interface](images/main1.png)
 
 ### Settings panel
 ![Settings panel](images/settings.png)
