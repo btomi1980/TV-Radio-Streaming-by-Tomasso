@@ -6,91 +6,92 @@ A powerful desktop application for watching TV channels and listening to online 
 
 ## 🚀 Download
 
-👉 https://github.com/btomi1980/TV-Radio-Streaming-by-Tomasso/releases/latest
+Download the latest version here:  
+https://github.com/btomi1980/TV-Radio-Streaming-by-Tomasso/releases/latest
 
 ---
 
 ## ✨ Features
 
-- 📺 Watch online TV channels  
-- 📻 Listen to radio streams  
-- 🌍 Multi-language support  
-- ⚡ Fast streaming with local proxy (127.0.0.1)  
-- 🧠 Smart channel database (local + shared)  
-- 🎛️ Full VLC integration  
-- 📂 M3U / M3U8 playlist support  
-- 🛠️ Advanced configuration options  
+- 📺 Watch online TV channels
+- 📻 Listen to radio streams
+- 🌍 Multi-language support
+- ⚡ Fast streaming with local proxy support
+- 🧠 Smart channel database management
+- 🎛️ Full VLC integration
+- 📂 M3U / M3U8 playlist support
+- 🛠️ Advanced configuration options
 
 ---
 
 ## 🖼️ Screenshots
 
 ### Main interface
-![Main](images/main.png)
+![Main interface](images/main.png)
 
 ### Settings panel
-![Settings](images/settings.png)
+![Settings panel](images/settings.png)
 
 ### Country selection
-![Country](images/country.png)
+![Country selection](images/country.png)
 
 ### Channel list
-![Channels](images/channels.png)
+![Channel list](images/channels.png)
 
 ### Shared database
-![Database](images/database.png)
+![Shared database](images/database.png)
 
 ### Channel request form
-![Request](images/request.png)
+![Channel request form](images/request.png)
 
 ---
 
 ## ⚙️ Installation
 
-1. Download the installer  
-2. Run the setup  
-3. Follow the instructions  
+1. Download the installer
+2. Run the setup
+3. Follow the installation instructions
 
 ---
 
 ## ▶️ Usage
 
-- Select a country  
-- Choose a channel  
-- Click **Start streaming**  
-- Enjoy TV or radio  
+1. Select a country
+2. Choose a channel
+3. Click **Start streaming**
+4. Enjoy TV or radio streaming
 
 ---
 
 ## 🧩 Channel Management
 
-- Add, edit, delete channels  
-- Assign categories (News, Sport, Music, etc.)  
-- Manage logos and metadata  
-- Import playlists (M3U / M3U8)  
+- Add, edit, and delete channels
+- Assign categories such as News, Sport, Music, and more
+- Manage channel logos and metadata
+- Import playlists in M3U / M3U8 format
 
 ---
 
 ## 🗄️ Database Modes
 
 ### Local database
-- Full control over your channels  
-- JSON-based storage  
+- Full control over your own channels
+- JSON-based local storage
 
 ### Shared database
-- Central online source  
-- Cached locally  
-- Supports updates and synchronization  
+- Central online source
+- Local cache support
+- Update and synchronization features
 
 ---
 
 ## 🧪 Technical Details
 
-- VLC player integration  
-- Streamlink support  
-- YouTube-dlp support  
-- Local proxy streaming  
-- ISO country code support  
+- VLC player integration
+- Streamlink support
+- YouTube-dlp support
+- Local proxy streaming
+- ISO country code support
 
 ---
 
