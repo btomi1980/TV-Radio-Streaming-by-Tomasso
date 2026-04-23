@@ -158,3 +158,19 @@
 ## ℹ️ About
 
 This application is designed to provide a flexible and powerful streaming experience for both TV and radio content in a single interface.
+
+---
+
+## Legal Notice
+
+This application is a media player and streaming tool.
+
+It does not host, provide, or distribute any media content.
+
+All content accessed through this application is provided by third-party sources.
+
+The developer is not responsible for the content streamed by users.
+
+Users are responsible for ensuring that they comply with their local laws and regulations regarding media consumption.
+
+This software is provided "as is", without warranty of any kind.
