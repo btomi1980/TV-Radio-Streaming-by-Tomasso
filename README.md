@@ -161,6 +161,12 @@ This application is designed to provide a flexible and powerful streaming experi
 
 ---
 
+## License
+
+This project is proprietary software. See the LICENSE file for details.
+
+---
+
 ## Legal Notice
 
 This application is a media player and streaming tool.
