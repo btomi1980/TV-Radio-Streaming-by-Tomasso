@@ -97,33 +97,33 @@ https://github.com/btomi1980/TV-Radio-Streaming-by-Tomasso/releases/latest
 
 ## 🌍 Languages
 
-🇦🇱 Albanian  
-🇧🇬 Bulgarian  
-🇨🇳 Chinese  
-🇨🇿 Czech  
-🇩🇪 German  
-🇩🇰 Danish  
-🇪🇪 Estonian  
-🇪🇸 Spanish  
-🇫🇮 Finnish  
-🇫🇷 French  
-🇬🇧 English  
-🇬🇷 Greek  
-🇭🇷 Croatian  
-🇭🇺 Hungarian  
-🇮🇹 Italian  
-🇯🇵 Japanese  
-🇰🇷 Korean  
-🇱🇹 Lithuanian  
-🇱🇻 Latvian  
-🇳🇴 Norwegian  
-🇵🇱 Polish  
-🇵🇹 Portuguese  
-🇷🇺 Russian  
-🇸🇪 Swedish  
-🇸🇮 Slovenian  
-🇸🇰 Slovak  
-🇹🇷 Turkish  
+<img src="https://flagcdn.com/16x12/al.png"> Albanian  
+<img src="https://flagcdn.com/16x12/bg.png"> Bulgarian  
+<img src="https://flagcdn.com/16x12/cn.png"> Chinese  
+<img src="https://flagcdn.com/16x12/cz.png"> Czech  
+<img src="https://flagcdn.com/16x12/de.png"> German  
+<img src="https://flagcdn.com/16x12/dk.png"> Danish  
+<img src="https://flagcdn.com/16x12/ee.png"> Estonian  
+<img src="https://flagcdn.com/16x12/es.png"> Spanish  
+<img src="https://flagcdn.com/16x12/fi.png"> Finnish  
+<img src="https://flagcdn.com/16x12/fr.png"> French  
+<img src="https://flagcdn.com/16x12/gb.png"> English  
+<img src="https://flagcdn.com/16x12/gr.png"> Greek  
+<img src="https://flagcdn.com/16x12/hr.png"> Croatian  
+<img src="https://flagcdn.com/16x12/hu.png"> Hungarian  
+<img src="https://flagcdn.com/16x12/it.png"> Italian  
+<img src="https://flagcdn.com/16x12/jp.png"> Japanese  
+<img src="https://flagcdn.com/16x12/kr.png"> Korean  
+<img src="https://flagcdn.com/16x12/lt.png"> Lithuanian  
+<img src="https://flagcdn.com/16x12/lv.png"> Latvian  
+<img src="https://flagcdn.com/16x12/no.png"> Norwegian  
+<img src="https://flagcdn.com/16x12/pl.png"> Polish  
+<img src="https://flagcdn.com/16x12/pt.png"> Portuguese  
+<img src="https://flagcdn.com/16x12/ru.png"> Russian  
+<img src="https://flagcdn.com/16x12/se.png"> Swedish  
+<img src="https://flagcdn.com/16x12/si.png"> Slovenian  
+<img src="https://flagcdn.com/16x12/sk.png"> Slovak  
+<img src="https://flagcdn.com/16x12/tr.png"> Turkish
 
 ---
 
