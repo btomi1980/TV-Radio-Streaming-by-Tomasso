@@ -54,6 +54,9 @@
 ### Channel request form
 ![Channel request form](images/request.png)
 
+### m3u(8) upload
+![Channel request form](images/m3u(8).png)
+
 ---
 
 ## ⚙️ Installation
