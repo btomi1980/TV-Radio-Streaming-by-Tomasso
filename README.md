@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge" alt="Version 3.0">
   <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=for-the-badge" alt="Platform Windows">
 </p>
-# TV & Radio Streaming by Tomasso™
 
-A powerful desktop application for watching TV channels and listening to online radio streams with VLC integration, local proxy support, and flexible channel management.
 
 ---
 
