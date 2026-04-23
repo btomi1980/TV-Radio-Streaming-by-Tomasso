@@ -21,12 +21,6 @@ A powerful desktop application for watching TV channels and listening to online 
 
 ---
 
-## 🚀 Download
-
-Download the latest version here:  
-https://github.com/btomi1980/TV-Radio-Streaming-by-Tomasso/releases/latest
-
----
 
 ## ✨ Features
 
