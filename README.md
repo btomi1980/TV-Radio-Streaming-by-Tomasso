@@ -158,6 +158,7 @@
 ## ℹ️ About
 
 This application is designed to provide a flexible and powerful streaming experience for both TV and radio content in a single interface.
+This application does not host or provide any media content.
 
 ---
 
