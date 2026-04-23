@@ -174,3 +174,19 @@ The developer is not responsible for the content streamed by users.
 Users are responsible for ensuring that they comply with their local laws and regulations regarding media consumption.
 
 This software is provided "as is", without warranty of any kind.
+
+
+## Privacy Policy
+
+This application does not collect, store, or share personal user data.
+
+The application may use:
+- Local proxy functionality for streaming purposes
+- Third-party tools such as VLC, Streamlink, and youtube-dlp
+
+No user data is transmitted to external servers by this application.
+
+Users are responsible for the streams they access.
+
+If you have any questions, contact:
+[btomi1980@gmail.com]
