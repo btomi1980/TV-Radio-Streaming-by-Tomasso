@@ -1,3 +1,20 @@
+<h1 align="center">TV & Radio Streaming by Tomasso™</h1>
+
+<p align="center">
+  A powerful desktop application for watching TV channels and listening to online radio streams
+  with VLC integration, local proxy support, and flexible channel management.
+</p>
+
+<p align="center">
+  <a href="https://github.com/btomi1980/TV-Radio-Streaming-by-Tomasso/releases/latest/download/TVRadioStreaming_Setup_Admin.exe">
+    <img src="https://img.shields.io/badge/Download-Installer-success?style=for-the-badge&logo=windows" alt="Download Installer">
+  </a>
+  <a href="https://github.com/btomi1980/TV-Radio-Streaming-by-Tomasso/releases/latest">
+    <img src="https://img.shields.io/badge/View-Latest%20Release-brightgreen?style=for-the-badge&logo=github" alt="Latest Release">
+  </a>
+  <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge" alt="Version 3.0">
+  <img src="https://img.shields.io/badge/platform-Windows-lightgrey?style=for-the-badge" alt="Platform Windows">
+</p>
 # TV & Radio Streaming by Tomasso™
 
 A powerful desktop application for watching TV channels and listening to online radio streams with VLC integration, local proxy support, and flexible channel management.
