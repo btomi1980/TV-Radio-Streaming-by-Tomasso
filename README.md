@@ -57,6 +57,9 @@
 ### m3u(8) upload
 ![Channel request form](images/m3u(8).png)
 
+### Streaming
+![Channel request form](images/play.png)
+
 ---
 
 ## ⚙️ Installation
