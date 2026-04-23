@@ -3,6 +3,7 @@
 <p align="center">
   A powerful desktop application for watching TV channels and listening to online radio streams
   with VLC integration, local proxy support, and flexible channel management.
+  The built-in shared database allows users to contribute and expand channel lists together – no more searching for streams manually.
 </p>
 
 <p align="center">
