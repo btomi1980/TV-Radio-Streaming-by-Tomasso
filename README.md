@@ -157,6 +157,7 @@
 
 ## ℹ️ About
 
+Windows desktop app for watching legally accessible TV channels and listening to online radio streams with VLC integration, M3U/M3U8 import, local proxy support, and multilingual channel management.
 This application is designed to provide a flexible and powerful streaming experience for both TV and radio content in a single interface.
 This application does not host or provide any media content.
 
